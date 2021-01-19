@@ -6,5 +6,6 @@ public class Demo {
         System.out.println("dev分支提交");
         System.out.println("提交dev代码");
         System.out.println("提交刘泽代码");
+        System.out.println("修改刘泽分支");
     }
 }
