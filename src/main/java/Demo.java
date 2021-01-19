@@ -4,6 +4,7 @@ public class Demo {
     }
 
     public void liuze() {
+        System.out.println("liuze");
     }
 
 }
