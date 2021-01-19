@@ -6,4 +6,8 @@ public class Demo {
     public void liuze() {
     }
 
+
+    public void dev() {
+
+    }
 }
